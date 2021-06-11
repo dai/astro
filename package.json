@@ -1,0 +1,15 @@
+{
+  "name": "@astrojs/portfolio-template",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "devDependencies": {
+    "astro": "^0.12.9"
+  },
+  "snowpack": {
+    "workspaceRoot": "../.."
+  }
+}

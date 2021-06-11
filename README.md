@@ -1,4 +1,6 @@
-# dai + astro
+## 🎨 Portfolio Example
 
-> side slide
-
+```
+npm i
+npm start
+```
